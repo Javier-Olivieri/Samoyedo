@@ -88,7 +88,7 @@ li.naus:hover ul.sub {
     font-size: 20px;
   }
   .sub {
-    margin-left: -180px;
+    margin-left: -140px;
     margin-top: -6px;
   }
   @-webkit-keyframes fondo {
