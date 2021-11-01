@@ -34,7 +34,7 @@ li.naus:hover ul.sub {
   display: block;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .perros {
     display: -webkit-box;
     display: -ms-flexbox;
