@@ -1,0 +1,89 @@
+
+@media screen and (max-width: 768px) {
+    
+    .Salud{
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    justify-content: center;
+    margin-top: 20px;
+    letter-spacing: 5px;
+
+}
+
+.Ejercicio {
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    justify-content: center;
+    margin-top: 20px;
+    letter-spacing: 5px;
+}
+
+.nutricion {
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    justify-content: center;
+    margin-top: 20px;
+    letter-spacing: 5px;
+}
+
+.aseo {
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    justify-content: center;
+    margin-top: 20px;
+    letter-spacing: 5px;
+}
+
+}
+
+@media screen and (min-width: 768px) {
+    .Salud{
+        display: flex;
+        font-family: 'Oswald', sans-serif;
+        font-size: 40px;
+        text-decoration: underline;
+        justify-content: center;
+        margin-top: 20px;
+        letter-spacing: 5px;
+    
+    }
+    
+    .Ejercicio {
+        display: flex;
+        font-family: 'Oswald', sans-serif;
+        font-size: 40px;
+        text-decoration: underline;
+        justify-content: center;
+        margin-top: 20px;
+        letter-spacing: 5px;
+    }
+    
+    .nutricion {
+        display: flex;
+        font-family: 'Oswald', sans-serif;
+        font-size: 40px;
+        text-decoration: underline;
+        justify-content: center;
+        margin-top: 20px;
+        letter-spacing: 5px;
+    }
+    
+    .aseo {
+        display: flex;
+        font-family: 'Oswald', sans-serif;
+        font-size: 40px;
+        text-decoration: underline;
+        justify-content: center;
+        margin-top: 20px;
+        letter-spacing: 5px;
+    }
+    
+}
